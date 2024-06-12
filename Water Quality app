@@ -1,0 +1,51 @@
+1.explain brief about of your project.
+2.what is machine learning.
+Machine learning (ML) is a branch of artificial intelligence (AI) and computer science that uses algorithms and data to help computers learn and improve their performance.
+Machine learning is a technology that enables computers to learn from previous data to make predictions or decisions. 
+
+1.)Supervised Learning: The algorithm learns from labeled training data and makes predictions based on that data
+Two types:
+classification:The Classification algorithm is a Supervised Learning technique that is used to identify the category of new observations on the basis of training data.
+
+Binary Classifier: If the classification problem has only two possible outcomes, then it is called as Binary Classifier.
+Examples: YES or NO, MALE or FEMALE, SPAM or NOT SPAM, CAT or DOG, etc.
+Multi-class Classifier: If a classification problem has more than two outcomes, then it is called as Multi-class Classifier.
+Example: Classifications of types of crops, Classification of types of music.
+
+ypes of ML Classification Algorithms:
+Classification Algorithms can be further divided into the Mainly two category:
+
+Linear Models:-
+  Logistic Regression
+  Support Vector Machines
+Non-linear Models
+  K-Nearest Neighbours
+  Kernel SVM
+  Naïve Bayes
+  Decision Tree Classification
+  Random Forest Classification
+
+Regression:Regression: The algorithm predicts continuous numerical values based on input data. Examples include predicting house prices, forecasting stock prices, and estimating the amount of rainfall.
+
+
+overfitting and underfitting:-
+
+Evaluation Measures for Regression Techniques:-
+train test split:-A train test split is when you split your data into a training set and a testing set. The training set is used for training the model, and the testing set is used to test your model. This allows you to train your models on the training set, and then test their accuracy on the unseen testing set.
+
+cross-validation:-Cross validation is a technique used in machine learning to evaluate the performance of a model on unseen data.
+The steps for k-fold cross-validation are:
+Split the input dataset into K groups
+For each group:
+Take one group as the reserve or test data set.
+Use remaining groups as the training dataset
+
+Hyperparameter Tuning:-Hyperparameter tuning involves selecting the best set of hyperparameters for a machine learning model to optimize its performance.
+
+classification Algorithms:-
+Knn:-
+
+
+
+
+
